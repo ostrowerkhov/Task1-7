@@ -5,3 +5,6 @@
 – удалить заданный объект для любых значений ключа,
 
 – удалить заданный объект для заданного ключа.
+
+Первое видео: https://www.youtube.com/watch?v=Cz-Rtj0IRj4
+Второе видео: https://www.youtube.com/watch?v=sa3Cm2Utoaw
